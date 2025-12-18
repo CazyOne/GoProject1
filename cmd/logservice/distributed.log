@@ -1,0 +1,8 @@
+[go] - 2025/12/18 15:17:26 [GradingService] - Delete "http://localhost:3000/services": dial tcp [::1]:3000: connectex: No connection could be made because the target machine actively refused it.
+
+[go] - 2025/12/18 15:17:26 [GradingService] - http: Server closed
+
+[go] - 2025/12/18 15:17:30 [Portal] - Delete "http://localhost:3000/services": dial tcp [::1]:3000: connectex: No connection could be made because the target machine actively refused it.
+
+[go] - 2025/12/18 15:17:30 [Portal] - http: Server closed
+
